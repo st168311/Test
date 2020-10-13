@@ -17,3 +17,4 @@
   <b> html, python, java, javascript, css, c++ </b>
 
 
+![](https://geliebte-katze.de/sites/geliebte-katze.de/files/spielregeln-katze.jpg)
