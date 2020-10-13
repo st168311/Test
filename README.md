@@ -1,6 +1,6 @@
 # Test
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page title</title>
@@ -14,5 +14,3 @@
 <p>Eine Seite mit Hinweisen zum Erstellen von Webseiten:
 <a href="https://www.html-seminar.de/website-erstellen-vorgehensweise.htm">https://www.html-seminar.de/website-erstellen-vorgehensweise.htm</a></p>
 <p> 
-</body>
-</html>
