@@ -17,6 +17,6 @@
   <b> html, python, java, javascript, css, c++ </b>
 
 
-![](https://geliebte-katze.de/sites/geliebte-katze.de/files/spielregeln-katze.jpg)
+![](https://pixabay.com/get/53e6d5464b55aa14f6d1867dda353678153ddbec5755724f_1920.jpg)
 
 Bild einfügen aus Wiki mit Link: Check
