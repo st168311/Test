@@ -16,4 +16,4 @@
 <p> 
   <b> html, python, java, javascript, css, c++ </b>
 
-<small> Zu Risiken und Nebenwirkungen fragen Sie Ihren Arzt oder Apotheker </small>
+
