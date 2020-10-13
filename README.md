@@ -18,3 +18,5 @@
 
 
 ![](https://geliebte-katze.de/sites/geliebte-katze.de/files/spielregeln-katze.jpg)
+
+Bild einfügen aus Wiki mit Link: Check
