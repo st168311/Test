@@ -18,5 +18,6 @@
 
 
 ![](https://pixabay.com/get/53e6d5464b55aa14f6d1867dda353678153ddbec5755724f_1920.jpg)
+Bild aus Pixabayvon Polyfoto
 
 Bild einfügen aus Wiki mit Link: Check
