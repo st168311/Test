@@ -16,4 +16,4 @@
 <p> 
   <b> html, python, java, javascript, css, c++ </b>
 
-<img src=“https://geliebte-katze.de/sites/geliebte-katze.de/files/spielregeln-katze.jpg“>
+<img src=“https://geliebte-katze.de/sites/geliebte-katze.de/files/spielregeln-katze.jpg“/>
